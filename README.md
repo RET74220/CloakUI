@@ -15,7 +15,7 @@ CloakUI is a lightweight desktop program for Windows designed to access OpenAI L
 
 - Unlimited use of powerful GPT models costing just pennies every month even after periods of heavy use through OpenAI's API Platform.
 
--------‐‐------------------‐‐------------------‐‐------------------‐‐------------------‐‐------------------‐‐-----------
+
 
 This is my first time releasing this program publicly. My past personal versions had more features not included here due to them not being 100% polished that are likely to be added here in the future:
 

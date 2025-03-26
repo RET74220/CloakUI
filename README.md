@@ -1,5 +1,5 @@
 # CloakUI
-Discreet OpenAI API interface tool
+Discreet OpenAI API GUItool
 
 CloakUI is a lightweight desktop program for Windows designed to access OpenAI LLMS with a minimalist and discreet appearance. The window is fixed at a small 430x450 pixels.
 
